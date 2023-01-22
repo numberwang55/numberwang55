@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Craig Banister. A software development student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.
+I'm Craig Banister. A software engineer student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.
 
 - 🌱 I’m currently learning Javascript, HTML & CSS
 
