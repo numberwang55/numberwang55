@@ -6,7 +6,7 @@ I'm Craig Banister. A software development student at Northcoders (https://www.n
 
 - 🌱 I’m currently learning Javascript, HTML & CSS
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numberwang55)](https://github.com/numberwang55/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numberwang55&theme=tokyonight&showicons=true)](https://github.com/numberwang55/github-readme-stats)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=numberwang55&count_private=true&theme=tokyonight&showicons=true)](https://github.com/numberwang55/github-readme-stats)
 
 <p align="center"> 
