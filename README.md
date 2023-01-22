@@ -1,10 +1,11 @@
-## Hi there 👋 
+  <h2>
+    Hello! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h2>
+  
+<p>I'm Craig Banister. A software engineer student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.</p>
 
-### About me
-
-I'm Craig Banister. A software engineer student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.
-
-- 🌱 I’m currently learning Javascript, HTML & CSS
+<p>- 🌱 I’m currently learning Javascript, HTML & CSS.</p>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numberwang55&theme=tokyonight&showicons=true)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=numberwang55&count_private=true&theme=tokyonight&showicons=true)
