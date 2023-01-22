@@ -1,6 +1,6 @@
-# Hi there 👋 
+## Hi there 👋 
 
-## About me
+### About me
 
 I'm Craig Banister. A software engineer student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.
 
