@@ -6,6 +6,8 @@
 <p>I'm Craig Banister. A software engineer student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.</p>
 
 <p>- 🌱 I’m currently learning Javascript, HTML & CSS.</p>
+<p>- 🔭 I’m currently working on something cool!</p>
+<p>- 📫 How to reach me: email - cban0901@gmail.com</p>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numberwang55&theme=tokyonight&showicons=true)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=numberwang55&count_private=true&theme=tokyonight&showicons=true)
