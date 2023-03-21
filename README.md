@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
   
-<p>I'm Craig Banister. A software engineer student at Northcoders (https://www.northcoders.com/). I am also a self-taught android developer and passionate about tech.</p>
+<p>I'm Craig Banister. A junior full stack software engineer at Quay Sports (https://www.quaysports.com/). I am also a self-taught android developer and passionate about tech.</p>
 
 <p>- 🌱 I’m currently learning Javascript, HTML & CSS.</p>
 <p>- 🔭 I’m currently working on something cool!</p>
