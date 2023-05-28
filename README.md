@@ -5,7 +5,7 @@
   
 <p>I'm Craig Banister. A junior full stack software engineer at Quay Sports (https://www.quaysports.com/). I am also a self-taught android developer and passionate about tech.</p>
 
-<p>- 🌱 I’m currently learning Javascript, HTML & CSS.</p>
+<p>- 🌱 I’m currently learning C# and ASP.net.</p>
 <p>- 🔭 I’m currently working on something cool!</p>
 <p>- 📫 How to reach me: email - cban0901@gmail.com</p>
 
